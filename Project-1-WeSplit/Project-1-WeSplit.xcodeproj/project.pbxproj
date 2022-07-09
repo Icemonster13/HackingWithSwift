@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C35BACA3287A26E60081173B /* Project_1_WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35BACA2287A26E60081173B /* Project_1_WeSplitApp.swift */; };
+		C35BACA3287A26E60081173B /* WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35BACA2287A26E60081173B /* WeSplitApp.swift */; };
 		C35BACA5287A26E70081173B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35BACA4287A26E70081173B /* ContentView.swift */; };
 		C35BACA7287A26E70081173B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C35BACA6287A26E70081173B /* Assets.xcassets */; };
 		C35BACAA287A26E70081173B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C35BACA9287A26E70081173B /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		C35BAC9F287A26E60081173B /* Project-1-WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project-1-WeSplit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C35BACA2287A26E60081173B /* Project_1_WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_1_WeSplitApp.swift; sourceTree = "<group>"; };
+		C35BACA2287A26E60081173B /* WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitApp.swift; sourceTree = "<group>"; };
 		C35BACA4287A26E70081173B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C35BACA6287A26E70081173B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C35BACA9287A26E70081173B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		C35BACA1287A26E60081173B /* Project-1-WeSplit */ = {
 			isa = PBXGroup;
 			children = (
-				C35BACA2287A26E60081173B /* Project_1_WeSplitApp.swift */,
+				C35BACA2287A26E60081173B /* WeSplitApp.swift */,
 				C35BACA4287A26E70081173B /* ContentView.swift */,
 				C35BACA6287A26E70081173B /* Assets.xcassets */,
 				C35BACA8287A26E70081173B /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C35BACA5287A26E70081173B /* ContentView.swift in Sources */,
-				C35BACA3287A26E60081173B /* Project_1_WeSplitApp.swift in Sources */,
+				C35BACA3287A26E60081173B /* WeSplitApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
