@@ -11,7 +11,11 @@ import SwiftUI
 struct WeSplitApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            // Original Project With No Challenges
+            // ContentView()
+            
+            // Original Project With All Challenges Complete
+            ChallengeView()
         }
     }
 }
